@@ -1,0 +1,68 @@
+#navigation {
+    display: flex;
+    width: 75%;
+    padding: 20px;
+    align-items: center;
+    justify-content: space-evenly;
+    font-family: 'Lato', sans-serif;
+}
+
+
+#navBar {
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: row;
+    margin: 20px 5%;
+    margin-right: 30px;
+  }
+
+
+  .plantProfile{
+    padding: 30px;
+    width: 10px;
+    height:10px;
+    font-family: 'Lato', sans-serif;
+    text-align: center;
+   
+  }
+  .info{
+    width: 250px;
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+  }
+
+  .plantGrid{
+    display: grid;
+    align-items: center;
+
+  }
+  .box{
+    height: 200px;
+    width: 200px;
+    grid-row: 1;
+  }
+  .plantGrid2{
+    display: grid;
+    align-items: center;
+
+  }
+
+  #myGreenhouse{
+    text-align: center !important;
+  }
+
+  #outdoor{
+    margin-top: 300px;
+  }
+
+  .header{
+    font-family: 'Lato', sans-serif;
+    text-align: left;
+    font-size: 40px;
+    padding: 5px;
+    color: #425300;
+  }
+
+
+
+  
